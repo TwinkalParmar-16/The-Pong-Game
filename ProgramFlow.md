@@ -7,11 +7,11 @@
    ### Functions
    - signIn(){
      Enter username and password
-     authenticateUser()
+       authenticateUser()
     }
    - signUp(){
      Enter username and password
-     authenticateUser()
+       authenticateUser()
    }
 
   
