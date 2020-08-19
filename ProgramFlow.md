@@ -102,7 +102,7 @@
     <br/> then
     <br/> Display Winner is player2.name
     <br/> else
-    <br/ > Display Tie
+    <br/> Display Tie
    }
    - quit(){
    <br/> player1.resetScore()
