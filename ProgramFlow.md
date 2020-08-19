@@ -7,10 +7,12 @@
    ### Functions
    - signIn(){
      Enter username and password
+     <br/>
        authenticateUser()
     }
    - signUp(){
      Enter username and password
+     <br/>
        authenticateUser()
    }
 
