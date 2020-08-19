@@ -104,10 +104,15 @@
     <br/> else
     <br/ > Display Tie
    }
-   - Quit(){
+   - quit(){
    <br/> player1.resetScore()
    <br/> player2.resetScore()
    <br/> exit()
+   }
+   - sessioExpeired(){
+   <br/> after fixed time period
+   <br/>Show session Experied
+   <br/> quit()
    }
 
    
